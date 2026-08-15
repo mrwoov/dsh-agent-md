@@ -34,4 +34,5 @@ DSH Web GUI 插件:在会话「对话 / 轨迹」tab 栏新增 **Agent** tab,用
 - host 半(`lib/index.js`):注册 `/api/agent-md` 路由,读写 `<path>/AGENTS.md`
 - client 半(`lib/client.js`):注册进 `conversation.view` 槽(`id: agent`,tab 文字「Agent」)
 - 纯 JavaScript,无构建步骤
-- License: Apache-2.0
+- License: MIT
+
