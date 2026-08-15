@@ -1,0 +1,5 @@
+# dsh-agent-md bundle patch: inserts the plugin row into the web profile.
+- insert:
+    - id: agent-md
+      name: '@mrwoov/dsh-agent-md'
+
